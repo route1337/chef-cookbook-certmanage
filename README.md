@@ -12,7 +12,7 @@ Changes Performed
 Requirements
 ------------
 1. Chef (Tested on Chef 13.6.4)
-2. Linux chef-clients (Tested on Ubuntu 14.04, Ubuntu 16.04 and CentOS 7.2 but kitchen will let you test anything you want)
+2. Linux chef-clients (Tested on Ubuntu 14.04, Ubuntu 16.04, Ubuntu 18.04, and CentOS 7.2 but kitchen will let you test anything you want)
 3. The chef-vault cookbook from Chef Supermarket
 4. The managed_directory cookbook from Chef Supermarket
 
