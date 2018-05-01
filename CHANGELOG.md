@@ -2,6 +2,11 @@ Certificate Management - Changelog
 ==============
 A list of all the changes made to this cookbook
 
+Version 0.1.2
+------------
+
+1. Added testing to verify Ubuntu 18.04 support
+
 Version 0.1.1
 ------------
 
